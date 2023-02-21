@@ -1,2 +1,2 @@
-# file-copier
-A file copier made with python, utterly useless because file explorer already has copy functionallity
+# FileCopier
+a file copier made with python, kinda useless, its my first python program btw
